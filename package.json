@@ -1,10 +1,10 @@
 {
-    "name": "pdf-parse",
-    "version": "1.1.1",
+    "name": "@touno-io/pdf",
+    "version": "1.2.0",
     "description": "Pure javascript cross-platform module to extract text from PDFs.",
     "main": "index.js",
     "keywords": [
-        "pdf-parse",
+        "@touno-io",
         "pdf-crawler",
         "xpdf",
         "pdf.js",
